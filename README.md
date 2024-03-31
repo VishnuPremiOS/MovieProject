@@ -11,6 +11,7 @@ Instructions
 Features Implemented
 
 User Interface:
+
   1.The main screen displays a list of movies with their thumbnails, titles, and descriptions.
   2.Tapping on a movie navigates to a detail view showing more information about the movie.
   3.Implemented a search bar to filter movies by title.
