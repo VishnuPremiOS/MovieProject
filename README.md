@@ -4,7 +4,7 @@ Instructions
 
     1.Building and Running the Project
   
-    2.Clone the repository: git clone <repository-url>
+    2.Clone the repository: git clone https://github.com/VishnuPremiOS/MovieProject.git
   
     3.Navigate to the project directory: cd <project-directory>
   
