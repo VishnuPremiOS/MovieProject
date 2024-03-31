@@ -1,6 +1,7 @@
 # MovieProject
 
 Instructions
+
   1.Building and Running the Project
   2.Clone the repository: git clone <repository-url>
   3.Navigate to the project directory: cd <project-directory>
@@ -8,6 +9,7 @@ Instructions
   5.Run the project on a simulator or a physical device.
   
 Features Implemented
+
 User Interface:
   1.The main screen displays a list of movies with their thumbnails, titles, and descriptions.
   2.Tapping on a movie navigates to a detail view showing more information about the movie.
